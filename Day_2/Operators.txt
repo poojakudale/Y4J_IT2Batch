@@ -1,0 +1,61 @@
++ , - , / , * , %
+a +b; a = 2+3;
+
+/ , % : both are used for division
+	a = 15/3;  // 5
+ / : it will return quotient
+%  : it will return reminder 15%3 // 0
+
+=
+a = 10;
+
++= , -= , /= ,*= , %= 
+
+sum = sum +a;
+or
+sum += a;
+
+x /= y; or x = x / y;
+
+Bitwise 
+
+Relation > , < , >= ,<= , ==, !=
+
+Logical : && , || , !
+
+Unary operator:
+++ ,  --
+
+a = a+1;
+a++;
+b = b-1;
+b--;
+
+a+b -(x+y)/z*l;
+
+Conditional or Ternary Operator :
+	?:
+	ans = (condition)?True:False;	
+	a = 90, b= 34;
+	c = (a > b)?a : b;
+	c= 90;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

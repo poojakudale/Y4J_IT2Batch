@@ -1,0 +1,17 @@
+Polymorphism :
+
+Types :
+Static Polymorphism : method binding is done at compilation time
+It can be achieved by using Method overloading
+
+What is Method Overloading?
+A method with same name but different signature is called as Method overloading
+ex. Calculator
+** Signature
+    > No of parameters
+    > Datatype of parameters
+    > Sequence of parameters
+
+Dynamic Polymorphism : method binding is done at execution time
+It can be achieved by using Method  overriding 
+To implement method overriding Inheritance concept is used.

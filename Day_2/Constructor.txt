@@ -1,0 +1,21 @@
+class A
+{
+	int x;
+	public static void main(String []s)
+	{
+		A  obj = new A();
+	}
+}
+(  space should be on a specific place )
+
+What is Constructor :
+> It provides default value for class members
+> It is special method of a class because
+	> It don't have any return type but it returns object
+	>It's name is same as that of class name
+> 2 types of constructor
+	> default 
+	> parameterized 
+
+> Constructors can be overloaded
+

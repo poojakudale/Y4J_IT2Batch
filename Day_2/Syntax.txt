@@ -1,0 +1,23 @@
+Class
+syntax :
+
+[access-modifier] class First 
+{
+	data members ; (variables)
+	methods ; (member functions)
+} 
+
+Method :
+Syntax : 
+Method Defination :
+[access-modifier] datatype methodName([parameters, ... ])
+{
+	statements;
+	:
+	:
+}
+
+method Call : 
+Syntax : 
+
+	methodName([parameters_value]);

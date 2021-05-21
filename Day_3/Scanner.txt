@@ -1,0 +1,13 @@
+In java all inputs are by default in string format.
+
+Scanner Class :
+It is used to accept inputs from user.
+
+methods : 
+
+nextInt(); 
+nextLine();
+nextFloat();
+nextDouble();
+nextLong();
+
